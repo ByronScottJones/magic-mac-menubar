@@ -4,8 +4,6 @@ A macOS menu bar app that plays a video in a borderless overlay when a global
 hotkey is pressed, and removes the overlay the instant the video ends. Each
 video can have its own hotkey, managed in a Settings window.
 
-Audience: anyone building, running, or extending the app.
-
 ## Build and run
 
 ```bash
