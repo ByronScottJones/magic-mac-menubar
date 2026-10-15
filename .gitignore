@@ -1,0 +1,10 @@
+.build/
+dist/
+.DS_Store
+.swiftpm/
+*.xcodeproj
+.claude/
+
+# Third-party source downloads and large converted clips; only assets/magic.mp4 is tracked.
+assets/*
+!assets/magic.mp4
