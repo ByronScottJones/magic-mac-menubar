@@ -90,7 +90,7 @@ videos anywhere and add them in Settings.
 | `scripts/build-app.sh`  | Builds and assembles `dist/Magic.app`     |
 | `assets/magic.mp4`      | Default bundled video                     |
 | `Makefile`              | Task runner; run `make help`              |
-| `.github/workflows/`    | CI: build, test, lint                     |
+| `.github/workflows/`    | Manual CI: build, test, lint              |
 
 ## Troubleshooting
 

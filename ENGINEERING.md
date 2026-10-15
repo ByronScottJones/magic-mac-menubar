@@ -35,7 +35,7 @@ for user-facing behavior.
 | `Tests/MagicCoreTests/` | Unit tests for `MagicCore` |
 | `scripts/build-app.sh` | Release build and ad-hoc signed `.app` assembly |
 | `Makefile` | Task runner (`make help`) |
-| `.github/workflows/ci.yml` | Build, test, lint, dependency review |
+| `.github/workflows/ci.yml` | Manual (workflow_dispatch) build, test, lint |
 | `agents/` | Project copies of agent topic guidance |
 | `assets/magic.mp4` | Default bundled clip (only tracked asset) |
 
