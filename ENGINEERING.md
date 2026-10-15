@@ -71,8 +71,6 @@ clip ends it is hidden, rewound, and prerolled again.
   permitted"; build and launch from a normal terminal.
 - No UI tests; playback and overlay behavior are verified manually.
 - Releases are unsigned/ad-hoc; add notarization before wide distribution.
-- The bundled clip is third-party content; confirm rights before making the
-  repository public or distributing binaries.
 
 ## Commands
 
