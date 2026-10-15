@@ -1,4 +1,4 @@
-# Magic
+# Magic Mac Menubar
 
 A macOS menu bar app that plays a video in a borderless overlay when a global
 hotkey is pressed, and removes the overlay the instant the video ends. Each
